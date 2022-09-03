@@ -1,0 +1,9 @@
+aiohttp
+cchardet
+aiodns
+aiohttp[speedups]
+bs4
+aiogram
+sqlalchemy
+pymysql
+
